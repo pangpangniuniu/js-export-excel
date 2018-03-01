@@ -171,7 +171,7 @@ Content-Type: text/html; charset="us-ascii"
     <style>
       <!-- @page
         {mso-footer-data:"&C\\7B2C &P \\9875\\FF0C\\5171 &N \\9875";
-        margin:0.5in 0.5118in 0.5in 0.5118in;
+        margin:0.748in 0.195in 0.748in 0.195in;
         mso-header-margin:0.51in;
         mso-footer-margin:0.51in;}
       -->
@@ -212,17 +212,17 @@ Content-Type: text/html; charset="us-ascii"
       </tr>
       <tr>
         <td width="46" height="42" style="text-align:center;font-weight:bold;">序号</td>
-        <td width="150" style="text-align:center;font-weight:bold;">产品名称</td>
-        <td width="60" style="text-align:center;font-weight:bold;">规格</td>
+        <td width="120" style="text-align:center;font-weight:bold;">产品名称</td>
+        <td width="53" style="text-align:center;font-weight:bold;">规格</td>
         <td width="40" style="text-align:center;font-weight:bold;">单位</td>
-        <td width="51" style="text-align:center;font-weight:bold;">订单量</td>
+        <td width="44" style="text-align:center;font-weight:bold;">订单量</td>
         <td width="72" style="text-align:center;font-weight:bold;">单价</td>
-        <td width="57" style="text-align:center;font-weight:bold;">发货量1</td>
-        <td width="57" style="text-align:center;font-weight:bold;">发货量2</td>
-        <td width="57" style="text-align:center;font-weight:bold;">签收量</td>
-        <td width="58" style="text-align:center;font-weight:bold;">退货量</td>
-        <td width="100" style="text-align:center;font-weight:bold;">金额（元）</td>
-        <td width="120" style="text-align:center;font-weight:bold;">备注</td>
+        <td width="56" style="text-align:center;font-weight:bold;">发货量1</td>
+        <td width="56" style="text-align:center;font-weight:bold;">发货量2</td>
+        <td width="54" style="text-align:center;font-weight:bold;">签收量</td>
+        <td width="63" style="text-align:center;font-weight:bold;">退货量</td>
+        <td width="95" style="text-align:center;font-weight:bold;">金额（元）</td>
+        <td width="108" style="text-align:center;font-weight:bold;">备注</td>
       </tr>`
     if (dataList.data[i].products.length > 0) {
       for (let k = 0; k < dataList.data[i].products.length; k++) {
